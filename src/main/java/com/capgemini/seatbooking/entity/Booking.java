@@ -15,7 +15,6 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
  
-//Booking.java
 @Entity
 @Table(name = "bookings")
 public class Booking {
